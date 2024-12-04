@@ -1,11 +1,3 @@
-track mm39*.test*
-type bigBed 6 +
-bigDataUrl mm39*.test*.bb
-itemRgb on
-visibility 3
-shortLabel mm39*.test*
-longLabel mapped hg38 splice sites
-    
 track mm39.cds.eb.pc.n_o.pos.u
 type bigBed 6 +
 bigDataUrl mm39.cds.eb.pc.n_o.pos.u.bb
