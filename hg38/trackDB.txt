@@ -1,0 +1,8 @@
+track hg38.cds.eb.pc.n_o.pos
+type bigBed 6 +
+bigDataUrl hg38.cds.eb.pc.n_o.pos.bb
+itemRgb on
+visibility 3
+shortLabel hg38.cds.eb.pc.n_o.pos
+longLabel mapped hg38 splice sites
+    

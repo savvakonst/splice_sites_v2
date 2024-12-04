@@ -1,0 +1,5 @@
+hub mapped human splice sites to hg38 v2
+shortLabel MHSS_v2
+longLabel mapped human splice sites to hg38
+genomesFile genomes.txt 
+email Savva.Konstantinov@skoltech.ru

@@ -1,0 +1,5 @@
+genome hg38
+trackDb hg38/trackDB.txt
+
+genome mm39
+trackDb mm39/trackDB.txt
